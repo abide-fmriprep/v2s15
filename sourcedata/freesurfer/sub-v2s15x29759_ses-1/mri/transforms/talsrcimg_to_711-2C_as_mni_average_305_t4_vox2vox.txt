@@ -1,0 +1,7 @@
+# AZS
+# compute_vox2vox talsrcimg talsrcimg_to_711-2C_as_mni_average_305_t4 /opt/freesurfer/average/711-2C_as_mni_average_305
+# freesurfer compute_vox2vox.c
+  0.907606  0.050838  0.021064    3.6235
+ -0.045071  0.836937 -0.193526   66.1071
+ -0.029487  0.218547  0.940430   -5.7035
+  0.000000  0.000000  0.000000    1.0000
